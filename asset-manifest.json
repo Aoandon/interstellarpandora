@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/interstellarpandora/static/css/main.352fccb5.chunk.css",
+    "main.js": "/interstellarpandora/static/js/main.aec8959e.chunk.js",
+    "main.js.map": "/interstellarpandora/static/js/main.aec8959e.chunk.js.map",
+    "runtime-main.js": "/interstellarpandora/static/js/runtime-main.91e9bd8c.js",
+    "runtime-main.js.map": "/interstellarpandora/static/js/runtime-main.91e9bd8c.js.map",
+    "static/js/2.bcf3a99a.chunk.js": "/interstellarpandora/static/js/2.bcf3a99a.chunk.js",
+    "static/js/2.bcf3a99a.chunk.js.map": "/interstellarpandora/static/js/2.bcf3a99a.chunk.js.map",
+    "index.html": "/interstellarpandora/index.html",
+    "static/css/main.352fccb5.chunk.css.map": "/interstellarpandora/static/css/main.352fccb5.chunk.css.map",
+    "static/js/2.bcf3a99a.chunk.js.LICENSE.txt": "/interstellarpandora/static/js/2.bcf3a99a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/interstellarpandora/static/media/interstellar.77dd3ace.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91e9bd8c.js",
+    "static/js/2.bcf3a99a.chunk.js",
+    "static/css/main.352fccb5.chunk.css",
+    "static/js/main.aec8959e.chunk.js"
+  ]
+}
